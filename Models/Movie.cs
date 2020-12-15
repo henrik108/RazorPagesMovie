@@ -11,6 +11,8 @@ namespace RazorPagesMovie.Models
         [DataType(DataType.Date)]
         public DateTime ReleaseDate { get; set; }
         public string Genre { get; set; }
+        
+        [DisplayFormat(DataFormatString = "{0:N}", ApplyFormatInEditMode = true)]
         public decimal Price { get; set; }
     }
 }

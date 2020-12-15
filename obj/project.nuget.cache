@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "PFvdo/p3iAoSw0JRC2M7b/dQnB66j92CKIyxrjOheKnTw1n2h2NBF0GTq5Cu0rGhS9T7+A8BMP4huNpR6SoYvQ==",
+  "dgSpecHash": "G3VsjaY3X9LHrpNsOY+9QqCSeCBE02A5GHrQKnoK89FBqcwZljICqsoWsYvc4VfjSGPggXmy1C/yvXHPYNU2gA==",
   "success": true,
   "projectFilePath": "D:\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\henrik.andersson\\.nuget\\packages\\cldrjs\\0.5.1\\cldrjs.0.5.1.nupkg.sha512",
     "C:\\Users\\henrik.andersson\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\henrik.andersson\\.nuget\\packages\\jquery\\1.4.4\\jquery.1.4.4.nupkg.sha512",
+    "C:\\Users\\henrik.andersson\\.nuget\\packages\\jquery-globalize\\1.4.2\\jquery-globalize.1.4.2.nupkg.sha512",
+    "C:\\Users\\henrik.andersson\\.nuget\\packages\\jquery.validation\\1.14.0\\jquery.validation.1.14.0.nupkg.sha512",
+    "C:\\Users\\henrik.andersson\\.nuget\\packages\\jquery.validation.globalize\\1.1.0\\jquery.validation.globalize.1.1.0.nupkg.sha512",
     "C:\\Users\\henrik.andersson\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\henrik.andersson\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\henrik.andersson\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.0\\microsoft.aspnetcore.razor.language.5.0.0.nupkg.sha512",

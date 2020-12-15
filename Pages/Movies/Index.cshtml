@@ -1,12 +1,12 @@
 ﻿@page
 @model RazorPagesMovie.Pages.Movies.IndexModel
-@System.Globalization.CultureInfo.CurrentUICulture
+
 
 @{
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Index @System.Globalization.CultureInfo.CurrentUICulture</h1>
 
 <p>
     <a asp-page="Create">Create New</a>
