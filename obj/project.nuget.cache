@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "G3VsjaY3X9LHrpNsOY+9QqCSeCBE02A5GHrQKnoK89FBqcwZljICqsoWsYvc4VfjSGPggXmy1C/yvXHPYNU2gA==",
+  "dgSpecHash": "SyFaFhMLeWSNjELJZ9ZoCszLBZBdXDIgp5r1Ak1k+KiXouHVAxKOP65jSNeIN0y2+JsT36Z1OpoHaumbNEjiiQ==",
   "success": true,
   "projectFilePath": "D:\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj",
   "expectedPackageFiles": [
@@ -64,6 +64,7 @@
     "C:\\Users\\henrik.andersson\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\henrik.andersson\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\henrik.andersson\\.nuget\\packages\\node.js\\5.3.0\\node.js.5.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\henrik.andersson\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\henrik.andersson\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
