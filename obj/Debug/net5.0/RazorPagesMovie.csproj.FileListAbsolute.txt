@@ -170,3 +170,4 @@ D:\repos\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Details.cshtml.g.cs
 D:\repos\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Edit.cshtml.g.cs
 D:\repos\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Index.cshtml.g.cs
 d:\repos\RazorPagesMovie\bin\Debug\net5.0\package.json
+D:\repos\RazorPagesMovie\bin\Debug\net5.0\package-lock.json
