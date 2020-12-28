@@ -1,3 +1,2 @@
 # RazorPagesMovie
-Learn Razor pages
-Testar lite
+I'm trying to Learn Razor pages and Github at the same time
