@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "C:\\dev\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "D:\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "C:\\dev\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\dev\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "D:\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj",
-        "packagesPath": "C:\\Users\\henrik.andersson\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\RazorPagesMovie\\obj\\",
+        "projectPath": "C:\\dev\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "packagesPath": "C:\\Users\\Henrik Andersson\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\henrik.andersson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Henrik Andersson\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
